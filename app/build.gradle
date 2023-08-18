@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace 'com.sps.compose'
+    namespace 'com.sps.croppricetracker'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.sps.compose"
+        applicationId "com.sps.croppricetracker"
         minSdk 21
         targetSdk 33
         versionCode 1
